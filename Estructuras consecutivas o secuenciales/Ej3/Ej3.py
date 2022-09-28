@@ -21,9 +21,3 @@ def Operaciones(NroPrimario, NroSecundario):
         print("ERROR")
 
 Operaciones(NroPrimario,NroSecundario)
-
-
-
-
-
-
